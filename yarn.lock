@@ -4022,6 +4022,10 @@ run-async@^2.2.0:
   dependencies:
     is-promise "^2.1.0"
 
+run-command-promise@0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/run-command-promise/-/run-command-promise-0.3.0.tgz#c4fb6ac39e93a0df8dbb509fcc17b222991050b9"
+
 rx-lite@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/rx-lite/-/rx-lite-3.1.2.tgz#19ce502ca572665f3b647b10939f97fd1615f102"
